@@ -14,6 +14,10 @@ The basic architecture, layering and core logic (BLoC wiring, API layer, DI setu
 6. Downloads
 7. More
 
+## APK
+
+A prebuilt release APK is included at [`release/court-click-movies.apk`](release/court-click-movies.apk) — install it directly on any Android device.
+
 ## Setup
 
 1. Install Flutter (this project targets Dart SDK `^3.8.1`).
