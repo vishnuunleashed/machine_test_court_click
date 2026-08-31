@@ -152,7 +152,7 @@ Profile switcher, a referral/share block with social icons, and a settings menu 
 
 ## Demo Video
 
-A short screen recording of the app running end-to-end — navigating Home, searching, and browsing Coming Soon, Downloads and More.
+A short screen recording of the app running end-to-end navigating Home, searching, and browsing Coming Soon, Downloads and More.
 
 <video src="screenshots/demo.mp4" controls width="300"></video>
 
