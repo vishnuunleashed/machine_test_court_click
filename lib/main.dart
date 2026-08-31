@@ -25,6 +25,7 @@ class MovieApp extends StatelessWidget {
       ],
         child: MaterialApp.router(
           title: 'Court Click Movies',
+          debugShowCheckedModeBanner: false,
           theme: AppTheme.lightTheme,
           darkTheme: AppTheme.darkTheme,
           // The UI is designed around the dark, Netflix-style palette, so dark
